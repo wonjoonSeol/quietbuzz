@@ -1,6 +1,6 @@
 # QuietBuzz
 
-[English](#english) | [한국어](#한국어) | [Website](https://wonjoonseol-ws.github.io/quietbuzz/) | [Download](https://github.com/wonjoonSeol-WS/quietbuzz/releases/latest)
+[English](#english) | [한국어](#한국어) | [Website](https://wonjoonseol.github.io/quietbuzz/) | [Download](https://github.com/wonjoonSeol/quietbuzz/releases/latest)
 
 ## English
 
@@ -16,7 +16,7 @@ Works on Android 13 and later. Tested on a Samsung Galaxy Z Fold 8.
 
 ### Install
 
-1. On your phone, download the APK from [Releases](https://github.com/wonjoonSeol-WS/quietbuzz/releases/latest) and open it.
+1. On your phone, download the APK from [Releases](https://github.com/wonjoonSeol/quietbuzz/releases/latest) and open it.
 2. Go to **Settings > Apps > QuietBuzz**, tap the top-right menu, then **Allow restricted settings**.
 3. Open QuietBuzz and follow the first screen: turn on notification access and link a device.
 4. Pick the apps that should still vibrate in the **Allowlist** tab, then tap **Run now**.
@@ -48,7 +48,7 @@ More detail: [Technical notes](docs/TECHNICAL.md)
 
 ### Try my other projects
 
-Like this? I make other small open source tools too: Android apps, a Claude chat game, Claude add-ons and more. See them all at [wonjoonseol-ws.github.io](https://wonjoonseol-ws.github.io/?from=quietbuzz).
+Like this? I make other small open source tools too: Android apps, a Claude chat game, Claude add-ons and more. See them all at [wonjoonseol.github.io](https://wonjoonseol.github.io/?from=quietbuzz).
 
 ## 한국어
 
@@ -64,7 +64,7 @@ Android 13 이상에서 동작합니다. 삼성 갤럭시 Z 폴드 8에서 테�
 
 ### 설치
 
-1. 폰에서 [Releases](https://github.com/wonjoonSeol-WS/quietbuzz/releases/latest)의 APK를 내려받아 여세요.
+1. 폰에서 [Releases](https://github.com/wonjoonSeol/quietbuzz/releases/latest)의 APK를 내려받아 여세요.
 2. **설정 > 애플리케이션 > QuietBuzz**에서 오른쪽 위 메뉴를 누르고 **제한된 설정 허용**을 선택하세요.
 3. QuietBuzz를 열고 첫 화면의 안내대로 알림 접근 권한을 켜고 기기를 연결하세요.
 4. **허용 목록** 탭에서 계속 진동할 앱을 고르고 **지금 실행**을 누르세요.
@@ -96,4 +96,4 @@ Android 13 이상에서 동작합니다. 삼성 갤럭시 Z 폴드 8에서 테�
 
 ### 다른 프로젝트도 써 보세요
 
-마음에 드셨다면 제가 만든 다른 오픈소스도 둘러보세요. 안드로이드 앱, Claude 채팅 게임, Claude 애드온 등이 있어요: [wonjoonseol-ws.github.io](https://wonjoonseol-ws.github.io/ko/?from=quietbuzz)
+마음에 드셨다면 제가 만든 다른 오픈소스도 둘러보세요. 안드로이드 앱, Claude 채팅 게임, Claude 애드온 등이 있어요: [wonjoonseol.github.io](https://wonjoonseol.github.io/ko/?from=quietbuzz)
