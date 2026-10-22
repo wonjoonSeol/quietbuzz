@@ -46,6 +46,10 @@ Open **Settings > Apps > (an app) > Notifications**, then tap one of its categor
 
 More detail: [Technical notes](docs/TECHNICAL.md)
 
+### Try my other projects
+
+Like this? I make other small open source tools too: Android apps, a Claude chat game, Claude add-ons and more. See them all at [wonjoonseol-ws.github.io](https://wonjoonseol-ws.github.io/?from=quietbuzz).
+
 ## 한국어
 
 폰을 진동 모드로 두면, 직접 고른 앱만 진동합니다. 나머지 앱의 알림도 그대로 표시되고, 진동만 꺼집니다. 방해 금지 모드는 필요 없습니다.
@@ -89,3 +93,7 @@ Android 13 이상에서 동작합니다. 삼성 갤럭시 Z 폴드 8에서 테�
 </p>
 
 자세한 내용: [Technical notes](docs/TECHNICAL.md) (영어)
+
+### 다른 프로젝트도 써 보세요
+
+마음에 드셨다면 제가 만든 다른 오픈소스도 둘러보세요. 안드로이드 앱, Claude 채팅 게임, Claude 애드온 등이 있어요: [wonjoonseol-ws.github.io](https://wonjoonseol-ws.github.io/ko/?from=quietbuzz)
